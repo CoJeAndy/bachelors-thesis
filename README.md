@@ -1,2 +1,4 @@
-# bachelors-thesis
-analysis and visualization of data from touch typing practice
+# analysis and visualization of data from touch typing practice
+
+
+
