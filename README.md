@@ -11,7 +11,7 @@ This thesis consisted of 3 main parts:
 ### Created visualization
 visualization of user activity:
 ![user activity visualization](assets/user_activity_viz.png)
-other interactive visualizations are in **interactive_viz** folder
+this and other interactive visualizations are hosted on ![github pages](https://cojeandy.github.io/bachelors-thesis/)
 
 
 ### Data description
